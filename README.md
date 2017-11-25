@@ -1,3 +1,4 @@
-# My Awesome Book
+Python修炼笔记
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+  依稀记得最早接触Python，还是在2012年，当时看过两本Python的电子书，仅此而已。随着AI和大数据火起来，Python又焕发了新春，学习Python的想法再次扑面而来，不管最终走到哪一步，把过程记录下来，或许会有额外的收获。
+
