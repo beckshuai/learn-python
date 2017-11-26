@@ -1,0 +1,25 @@
+{
+  "name": "mastering-python-from-scratch",
+  "version": "1.0.0",
+  "description": "mastering python from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.gitbook.com/beckshuai/mastering-python-from-scratch.git"
+  },
+  "keywords": [
+    "python"
+  ],
+  "author": "rshuai@outlook.com",
+  "license": "ISC",
+  "devDependencies": {
+    "gitbook": "^3.2.3"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4"
+  }
+}
